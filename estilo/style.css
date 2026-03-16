@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(107, 148, 182);
+}
+
+.titulo-historia {
+    font-size: 4rem;
+    text-align: center;
+    font-family:sans-serif;
+    color:rgb(205, 7, 7);
+}
+
+.titulo-hobbies {
+    color: rgb(22, 22, 198);
+}
